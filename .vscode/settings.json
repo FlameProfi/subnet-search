@@ -1,0 +1,4 @@
+{
+  "eslint.workingDirectories": ["src"],
+  "editor.formatOnSave": false
+}
